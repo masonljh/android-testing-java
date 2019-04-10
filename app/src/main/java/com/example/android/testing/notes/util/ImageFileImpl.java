@@ -18,7 +18,8 @@ package com.example.android.testing.notes.util;
 
 import android.net.Uri;
 import android.os.Environment;
-import android.support.annotation.VisibleForTesting;
+
+import com.google.common.annotations.VisibleForTesting;
 
 import java.io.File;
 import java.io.IOException;
