@@ -30,3 +30,6 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
+
+# android-testing-java
+codelab에 있던 Testing의 자바 버전
